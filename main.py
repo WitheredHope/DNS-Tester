@@ -6,4 +6,3 @@ my_resolver = dns.resolver.Resolver()
 my_resolver.nameservers = ['8.8.8.8']
 
 answer = my_resolver.query('google.com')
-'testing to make sure i can still commit without things going tits up'

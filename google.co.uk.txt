@@ -1,0 +1,21 @@
+2018-12-01 17:23:33.367689
+For DNS: Google (IP: 8.8.8.8), domain: google.co.uk has been updated to the new IP address.
+For DNS: Comodo Secure DNS (IP: 8.26.56.26), domain: google.co.uk has been updated to the new IP address.
+For DNS: FreeDNS (IP: 37.235.1.174), domain: google.co.uk has been updated to the new IP address.
+For DNS: Alternate DNS (IP: 198.101.242.72), domain: google.co.uk has been updated to the new IP address.
+For DNS: Dyn (IP: 216.146.35.35), domain: google.co.uk has been updated to the new IP address.
+For DNS: DNS.WATCH (IP: 84.200.69.80), domain: google.co.uk has been updated to the new IP address.
+For DNS: Cloudflare (IP: 1.1.1.1), domain: google.co.uk has been updated to the new IP address.
+For DNS 'GreenTeamDNS' (IP: 81.218.119.11), domain: 'google.co.uk has not been updated to the new IP address.
+For DNS: Norton ConnectSafe (IP: 199.85.126.10), domain: google.co.uk has been updated to the new IP address.
+For DNS: Hurricane Electric (IP: 74.82.42.42), domain: google.co.uk has been updated to the new IP address.
+For DNS: Level3 (IP: 209.244.0.3), domain: google.co.uk has been updated to the new IP address.
+For DNS: Neustar Security (IP: 156.154.70.1), domain: google.co.uk has been updated to the new IP address.
+For DNS 'OpenNIC' (IP: 23.94.60.240), domain: 'google.co.uk has not been updated to the new IP address.
+For DNS: OpenDNS Home (IP: 208.67.222.222), domain: google.co.uk has been updated to the new IP address.
+For DNS: Quad9 (IP: 9.9.9.9), domain: google.co.uk has been updated to the new IP address.
+For DNS: Yandex.DNS (IP: 77.88.8.8), domain: google.co.uk has been updated to the new IP address.
+For DNS: SafeDNS (IP: 195.46.39.39), domain: google.co.uk has been updated to the new IP address.
+For DNS: puntCAT (IP: 109.69.8.51), domain: google.co.uk has been updated to the new IP address.
+For DNS 'Verisign' (IP: 64.6.46.6), domain: 'google.co.uk has not been updated to the new IP address.
+For DNS: UncensoredDNS (IP: 91.239.100.100), domain: google.co.uk has been updated to the new IP address.

@@ -1,3 +1,9 @@
+'''
+MLH Local Hack Day 01/12/2018
+Tom Atkins & Josh D-Kemp
+DNS Update Checker
+'''
+
 import dns.resolver
 
 def get_ip(domain, dnsIP):
